@@ -8,6 +8,6 @@ let producao = [
 ];
 
 
-producao.pop("hambúrguer artesanal", "wrap de frango");
+producao.pop();
 
 console.log(producao);

@@ -6,4 +6,4 @@ let palavrasChave = [
     "react"
   ];
 
-  console.log(`${palavrasChave.join(', ')}`);
+  console.log(`${palavrasChave.join(' - ')}`);

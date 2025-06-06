@@ -12,4 +12,4 @@ let usuariosSistemaA = [
     "marcelo.cardoso"
   ];
 
-  console.log(`Playlist combinada: ${usuariosSistemaA.concat(usuariosSistemaB)}`);
+  console.log(` ${usuariosSistemaA.concat(usuariosSistemaB)}`);
